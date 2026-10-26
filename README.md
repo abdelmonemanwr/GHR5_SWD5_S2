@@ -40,15 +40,14 @@ Understanding CSS specificity rules to control style precedence:
 * `fixed`: Positioned relative to the viewport and stays in place during scroll.
 
 ## 📂 Project Structure
-.
-├── assets/
-│   ├── leo.jpg
-│   └── leo-2.jpg
-├── fonts/
-│   └── Rosehot.ttf
-├── index.html
-├── style.css
-└── notes.txt
+- 📁 **assets/**
+  - 🖼️ `leo.jpg`
+  - 🖼️ `leo-2.jpg`
+- 📁 **fonts/**
+  - 🔤 `Rosehot.ttf`
+- 📄 `index.html`
+- 🎨 `style.css`
+- 📝 `notes.txt`
 
 ## 🔗 Useful Resources & Links
 
