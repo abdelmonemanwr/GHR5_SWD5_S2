@@ -40,3 +40,26 @@ Understanding CSS specificity rules to control style precedence:
 * `fixed`: Positioned relative to the viewport and stays in place during scroll.
 
 ## 📂 Project Structure
+.
+├── assets/
+│   ├── leo.jpg
+│   └── leo-2.jpg
+├── fonts/
+│   └── Rosehot.ttf
+├── index.html
+├── style.css
+└── notes.txt
+
+## 🔗 Useful Resources & Links
+
+* 🔤 **Fonts:** [1001 Fonts - Family Fonts](https://www.1001fonts.com/family-fonts.html)
+* 🎨 **Color Palette:** [Color Hunt Palette #202734](https://colorhunt.co/palette/20273436415ab7d894e0f8c7)
+* 🖼️ **Stock Images:** [Pexels Lion Search](https://www.pexels.com/search/lion/)
+* 🚀 **Design Inspiration:** [Start Bootstrap UI Kit Pro](https://startbootstrap.com/previews/sb-ui-kit-pro)
+
+## 💻 Getting Started
+
+1. Clone the repository:
+   
+```bash
+   git clone [https://github.com/Men3m/CSS.git](https://github.com/Men3m/CSS.git)
