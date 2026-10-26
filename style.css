@@ -1,0 +1,196 @@
+/* reseting */
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+
+
+/* .mypar{
+    background-color: beige;
+    color: navy;
+}
+
+#par{
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+
+li:hover{
+    background-color: black;
+    color: red;
+}
+
+
+h1{
+    color: blue;
+}
+
+.main{
+    color: green;
+}
+
+#head{
+    color: red;
+}
+
+
+p, li, h1{
+    color: blue;
+} 
+
+div span{
+    color: green
+}
+
+div > span{
+    color:aqua
+}
+
+span + p{
+    color: magenta !important;
+}
+
+span ~ p{
+    color: peru;
+}
+
+
+#container .myclass span{
+    color:blueviolet;
+}
+
+#inside-span{
+    color:cadetblue;
+}
+ */
+
+/* p.myclass  vs p .myclass  */
+
+/* p.first{
+    color:mediumseagreen;
+}
+
+#myspan:hover{
+
+}
+
+
+[id]{
+    color:blue;
+} */
+
+@font-face {
+    font-family: Rosehot;
+    src: url("./fonts/Rosehot.ttf");
+}
+
+p.myclass{
+    /* font-family: 'Rosehot', 'Courier New', 'Courier', 'monospace'; */
+    /* font-size: 16pt; */
+    /* font-size: 16px; */
+    /* font-size: 1em; */
+    /* font-size: 1rem; */
+    /* font-size: 3vw; */
+    /* font-size: 3vh; */
+    /* font-weight: 400; */
+    /* font-style: oblique; */
+
+    font: 600 3vw Rosehot;
+
+    /* color: red; */
+    /* color: rgb(10, 82, 10); */
+    color: #0f5D9B;
+    /* color: #B7D894; */
+}
+
+#container{
+    border: 2px solid red;
+    /* border: 2px dashed red; */
+    /* border: 2px dotted red; */
+
+    /* margin: 10px; */
+    /* margin: 10px 20px; */
+    margin: 10px 20px 30px 40px;
+    
+    /* padding: 10px; */
+    /* padding: 10px 20px; */
+    padding: 10px 20px 30px 40px;
+
+    width: 300px;
+    /* totalwidth: 300 + 2 + 40 + 20 + 2 = 464 */
+    height: 300px;
+    /*  */
+    box-sizing: border-box;
+
+    text-align: center;
+
+    /* background-color: bisque;
+    background-image: url("./assets/leo-2.jpg");
+    background-repeat: no-repeat;
+    background-position: 10% 20%; */
+
+    
+    background-image: url("./assets/leo.jpg");
+    background-size: contain;
+    background-size: cover;
+    /* border-radius: 10px; */
+    border-radius: 50%;
+}
+
+
+
+    
+#main{
+    height: 500px;
+    border: 3px solid #0f5D9B;
+    background-color: azure;
+    position: relative;
+}
+
+#main div{
+    height: 100px;
+}
+
+.div1{
+    background-color: blueviolet;
+    border: 2px solid #2e1f2e;
+    /* position: fixed;
+    top: 10px;
+    left: 10px;
+    width: 80%;  */
+
+    position: absolute;
+    top: 20px;
+    left: 5px;
+    width: 200px;
+}
+
+.div2{
+    background-color: rosybrown ;
+    border: 2px solid mediumseagreen;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    width:95%;
+}
+
+#sparta{
+    margin:30px;
+    width:300px;
+    background-color: #0f5D9B;
+    /* display: block; */
+    display: inline-block;
+    /* display: none; */
+}
+
+
+a {
+    /* text-decoration: none; */
+    /* text-decoration: underline; */
+    /* text-decoration: line-through; */
+    /* text-decoration: overline; */
+
+    /* color: inherit; */
+
+}

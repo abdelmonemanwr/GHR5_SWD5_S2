@@ -1,0 +1,38 @@
+CSS: Cascading Style sheet
+
+1. Default
+2. inline 
+3. internal
+4. External
+
+
+selectors:
+tagname: 1
+class: 10
+id: 100
+psedu-classes
+universal selectors
+combination selectors
+relational selectors
+select based on attribute
+
+
+units:
+  - point pt
+  - pexel px
+  - em    >  1em ~ 16px
+  - rem   >  1rem = 100% root element font
+  - vw    >  viewport width
+  - vh    > viewport hieght
+
+
+positions:
+  fixed
+  relative
+  absolute
+
+> used-links:
+1. https://www.1001fonts.com/family-fonts.html
+2. https://colorhunt.co/palette/20273436415ab7d894e0f8c7
+3. https://www.pexels.com/search/lion/
+4. https://startbootstrap.com/previews/sb-ui-kit-pro
