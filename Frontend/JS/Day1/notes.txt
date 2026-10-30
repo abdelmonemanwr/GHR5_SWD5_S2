@@ -1,0 +1,16 @@
+Agenda
+> History of JS
+> Where to write JS code
+> Variables
+> Data Types
+> Arthemetic Operators
+> Comparisons
+> Logicaal Operaators
+> Short Circuits
+> Conditions
+> Loops
+> take input from user
+> document.WriteLn
+> alert: sweetalert2,
+> confirm
+> string.apis, maath, arrays
